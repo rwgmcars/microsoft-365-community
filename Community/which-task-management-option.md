@@ -213,10 +213,10 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Expands capabilities pre-project into sales and quotes and post-project into expenses, invoicing and more
 - Requires additional licensing
 
-## Viva Goals
+## Viva Goals (retired)
 
 ![Viva Goals](media/task-management-options/Tasks13.png)
-
+https://learn.microsoft.com/en-us/viva/goals/goals-retirement
 ### Notes - Viva Goals
 
 - Viva Goals will support syncing of tasks from Azure Dev Ops, Project, and Planner to align daily tasks with organizational priorities
